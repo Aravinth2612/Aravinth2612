@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aravinth2612
+- 👋 Hi, I’m @Aravinth
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on Devloping
